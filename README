@@ -1,1 +1,8 @@
+Poryecto de Inditex ampliado con las mejoras que proporciona SprinBoot.
+La mejora añadida en esta subida es la recogida de los datos del cliente en la sección: Unete. 
+
+En la sección se hace una llamada a la base de datos para que almacene un usuario con una contraseña y este lo hace si no figuraba previamente en la misma. 
+
+Finalmente, se ha desarrollado tambien una manera de poder acceder a los usuarios registrados en la web (/userControlator) donde se muestran por pantalla todos los usuarios con 
+los emails, nombres y contraseñas.
 
